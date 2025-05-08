@@ -1,4 +1,4 @@
-""# 📌 Leitura de Planilhas do Google Sheets com Google Colab
+# 📌 Leitura de Planilhas do Google Sheets com Google Colab
 
 ## 📄 **Descrição do Projeto**
 
